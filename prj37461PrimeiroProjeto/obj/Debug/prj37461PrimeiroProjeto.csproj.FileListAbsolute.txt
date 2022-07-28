@@ -1,0 +1,11 @@
+C:\Users\aluno\Desktop\prj37461PrimeiroProjeto\prj37461PrimeiroProjeto\obj\Debug\prj37461PrimeiroProjeto.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\prj37461PrimeiroProjeto\prj37461PrimeiroProjeto\obj\Debug\prj37461PrimeiroProjeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Desktop\prj37461PrimeiroProjeto\prj37461PrimeiroProjeto\obj\Debug\prj37461PrimeiroProjeto.FRMCalculadora.resources
+C:\Users\aluno\Desktop\prj37461PrimeiroProjeto\prj37461PrimeiroProjeto\obj\Debug\prj37461PrimeiroProjeto.Properties.Resources.resources
+C:\Users\aluno\Desktop\prj37461PrimeiroProjeto\prj37461PrimeiroProjeto\obj\Debug\prj37461PrimeiroProjeto.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\prj37461PrimeiroProjeto\prj37461PrimeiroProjeto\obj\Debug\prj37461PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\prj37461PrimeiroProjeto\prj37461PrimeiroProjeto\bin\Debug\prj37461PrimeiroProjeto.exe.config
+C:\Users\aluno\Desktop\prj37461PrimeiroProjeto\prj37461PrimeiroProjeto\bin\Debug\prj37461PrimeiroProjeto.exe
+C:\Users\aluno\Desktop\prj37461PrimeiroProjeto\prj37461PrimeiroProjeto\bin\Debug\prj37461PrimeiroProjeto.pdb
+C:\Users\aluno\Desktop\prj37461PrimeiroProjeto\prj37461PrimeiroProjeto\obj\Debug\prj37461PrimeiroProjeto.exe
+C:\Users\aluno\Desktop\prj37461PrimeiroProjeto\prj37461PrimeiroProjeto\obj\Debug\prj37461PrimeiroProjeto.pdb
